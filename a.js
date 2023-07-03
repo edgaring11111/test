@@ -1,3 +1,3 @@
 const a = 12;
-const b = 123;
+const b = 1234;
 
