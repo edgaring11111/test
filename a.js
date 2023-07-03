@@ -1,2 +1,3 @@
 const a = 12;
-const b = asdf;
+const b = 1234;
+
